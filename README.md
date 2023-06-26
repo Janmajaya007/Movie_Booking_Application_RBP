@@ -1,7 +1,7 @@
 # Movie_Booking_Application_RBP
 This git repository contains the Movie Booking Application RBP program under Cognizant 
 
-This Movie Ticket Booking application is developed in Microservice base technology in Java EE.
+This Movie Ticket Booking application is developed in Microservice based technology in Java EE.
 There are two microservices;-
 a. UserManagement 
 b. Movie_Booking_Application
